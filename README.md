@@ -21,11 +21,11 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p>This template lets you communicate with the AWA or CDA backend using the exposed REST endpoints. For this you need the Visual Studio Code Editor and&nbsp; REST Client Plugin.</p>
+<p>This template lets you communicate with the CDA, CDD and AWA backend using the exposed REST endpoints. For this you need the Visual Studio Code Editor and&nbsp; REST Client Plugin.</p>
 <ol>
 <li>Download Visual Code from here: https://code.visualstudio.com</li>
 <li>Install the VS Code REST-Client. To do so, search for "REST" in the Extension marketplace. Using this extension, you can interact directy with the Automic REST API within the VS Code editor.</li>
-<li>Use the provide .rest tempates to start working with the AWA or CDA REST API</li>
+<li>Use the provided .rest templates to start working with the CDA, CDD and AWA REST APIs</li>
 </ol>
 
 Copyright and License
